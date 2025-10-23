@@ -1,0 +1,44 @@
+Participantes:
+ Centurión David
+ Castillo Federico
+ Lionel Zindis
+
+b)No, no puede porque sólo puede actualizarlo con el repositorio original.
+
+d)No, se pueden mergear los datos de los forks con un debido pull request.
+
+e) Listado comandos
+# 1. BETA
+git clone https://github.com/USUARIO_BETA/TP_SO_i2_100.git
+cd TP_SO_i2_100
+touch fork.txt
+git add .
+git commit -m "Agregando fork.txt"
+git push
+
+# 2. GAMMA
+git clone https://github.com/USUARIO_GAMMA/TP_SO_i2_100.git
+cd TP_SO_i2_100
+echo "Nombre | IP | Hora >> fork.txt
+git add .
+git commit -m "Agregando nombre, fecha y hora"
+git push
+
+# 3. ALFA
+git clone https://github.com/USUARIO_ALFA/TP_SO_i2_100.git
+cd TP_SO_i2_100
+echo "Nombre | IP | Hora >> fork.txt
+git add .
+git commit -m "Agregando nombre, fecha y hora"
+git push
+
+# 4. BETA
+touch NuevoDato.txt
+git add .
+git commit -m "Agregando NuevoDato.txt"
+git push
+
+# 6. BETA
+git add respuesta_I2_Equipo100
+git commit -m "Agregando respuestas_I2_Equipo100.txt"
+git push
