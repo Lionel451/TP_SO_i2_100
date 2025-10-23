@@ -2,8 +2,10 @@ Participantes:
  Centurión David
  Castillo Federico
  Lionel Zindis
-
+a) sincronizandolo.
 b)No, no puede porque sólo puede actualizarlo con el repositorio original.
+
+c)No, no puede porque sólo puede actualizarlo con el repo original.
 
 d)No, se pueden mergear los datos de los forks con un debido pull request.
 
