@@ -3,6 +3,10 @@ Participantes:
  Castillo Federico
  Lionel Zindis
 
+b)No, no puede porque sólo puede actualizarlo con el repositorio original.
+
+d)No, se pueden mergear los datos de los forks con un debido pull request.
+
 e) Listado comandos
 # 1. BETA
 git clone https://github.com/USUARIO_BETA/TP_SO_i2_100.git
